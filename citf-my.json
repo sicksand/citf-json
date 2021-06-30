@@ -1,0 +1,1136 @@
+[
+  {
+    "date": "2021-02-24",
+    "dose1_daily": 60,
+    "dose2_daily": 0,
+    "total_daily": 60,
+    "dose1_cumul": 60,
+    "dose2_cumul": 0,
+    "total_cumul": 60
+  },
+  {
+    "date": "2021-02-25",
+    "dose1_daily": 1153,
+    "dose2_daily": 0,
+    "total_daily": 1153,
+    "dose1_cumul": 1213,
+    "dose2_cumul": 0,
+    "total_cumul": 1213
+  },
+  {
+    "date": "2021-02-26",
+    "dose1_daily": 4086,
+    "dose2_daily": 0,
+    "total_daily": 4086,
+    "dose1_cumul": 5299,
+    "dose2_cumul": 0,
+    "total_cumul": 5299
+  },
+  {
+    "date": "2021-02-27",
+    "dose1_daily": 6712,
+    "dose2_daily": 0,
+    "total_daily": 6712,
+    "dose1_cumul": 12011,
+    "dose2_cumul": 0,
+    "total_cumul": 12011
+  },
+  {
+    "date": "2021-02-28",
+    "dose1_daily": 6683,
+    "dose2_daily": 3,
+    "total_daily": 6686,
+    "dose1_cumul": 18694,
+    "dose2_cumul": 3,
+    "total_cumul": 18697
+  },
+  {
+    "date": "2021-03-01",
+    "dose1_daily": 15357,
+    "dose2_daily": 4,
+    "total_daily": 15361,
+    "dose1_cumul": 34051,
+    "dose2_cumul": 7,
+    "total_cumul": 34058
+  },
+  {
+    "date": "2021-03-02",
+    "dose1_daily": 21658,
+    "dose2_daily": 4,
+    "total_daily": 21662,
+    "dose1_cumul": 55709,
+    "dose2_cumul": 11,
+    "total_cumul": 55720
+  },
+  {
+    "date": "2021-03-03",
+    "dose1_daily": 22636,
+    "dose2_daily": 5,
+    "total_daily": 22641,
+    "dose1_cumul": 78345,
+    "dose2_cumul": 16,
+    "total_cumul": 78361
+  },
+  {
+    "date": "2021-03-04",
+    "dose1_daily": 19527,
+    "dose2_daily": 10,
+    "total_daily": 19537,
+    "dose1_cumul": 97872,
+    "dose2_cumul": 26,
+    "total_cumul": 97898
+  },
+  {
+    "date": "2021-03-05",
+    "dose1_daily": 14128,
+    "dose2_daily": 2,
+    "total_daily": 14130,
+    "dose1_cumul": 112000,
+    "dose2_cumul": 28,
+    "total_cumul": 112028
+  },
+  {
+    "date": "2021-03-06",
+    "dose1_daily": 15348,
+    "dose2_daily": 1,
+    "total_daily": 15349,
+    "dose1_cumul": 127348,
+    "dose2_cumul": 29,
+    "total_cumul": 127377
+  },
+  {
+    "date": "2021-03-07",
+    "dose1_daily": 12349,
+    "dose2_daily": 2,
+    "total_daily": 12351,
+    "dose1_cumul": 139697,
+    "dose2_cumul": 31,
+    "total_cumul": 139728
+  },
+  {
+    "date": "2021-03-08",
+    "dose1_daily": 26808,
+    "dose2_daily": 3,
+    "total_daily": 26811,
+    "dose1_cumul": 166505,
+    "dose2_cumul": 34,
+    "total_cumul": 166539
+  },
+  {
+    "date": "2021-03-09",
+    "dose1_daily": 29735,
+    "dose2_daily": 2,
+    "total_daily": 29737,
+    "dose1_cumul": 196240,
+    "dose2_cumul": 36,
+    "total_cumul": 196276
+  },
+  {
+    "date": "2021-03-10",
+    "dose1_daily": 28436,
+    "dose2_daily": 1,
+    "total_daily": 28437,
+    "dose1_cumul": 224676,
+    "dose2_cumul": 37,
+    "total_cumul": 224713
+  },
+  {
+    "date": "2021-03-11",
+    "dose1_daily": 26144,
+    "dose2_daily": 0,
+    "total_daily": 26144,
+    "dose1_cumul": 250820,
+    "dose2_cumul": 37,
+    "total_cumul": 250857
+  },
+  {
+    "date": "2021-03-12",
+    "dose1_daily": 26045,
+    "dose2_daily": 1,
+    "total_daily": 26046,
+    "dose1_cumul": 276865,
+    "dose2_cumul": 38,
+    "total_cumul": 276903
+  },
+  {
+    "date": "2021-03-13",
+    "dose1_daily": 16653,
+    "dose2_daily": 0,
+    "total_daily": 16653,
+    "dose1_cumul": 293518,
+    "dose2_cumul": 38,
+    "total_cumul": 293556
+  },
+  {
+    "date": "2021-03-14",
+    "dose1_daily": 9866,
+    "dose2_daily": 0,
+    "total_daily": 9866,
+    "dose1_cumul": 303384,
+    "dose2_cumul": 38,
+    "total_cumul": 303422
+  },
+  {
+    "date": "2021-03-15",
+    "dose1_daily": 19996,
+    "dose2_daily": 1,
+    "total_daily": 19997,
+    "dose1_cumul": 323380,
+    "dose2_cumul": 39,
+    "total_cumul": 323419
+  },
+  {
+    "date": "2021-03-16",
+    "dose1_daily": 25310,
+    "dose2_daily": 3,
+    "total_daily": 25313,
+    "dose1_cumul": 348690,
+    "dose2_cumul": 42,
+    "total_cumul": 348732
+  },
+  {
+    "date": "2021-03-17",
+    "dose1_daily": 20761,
+    "dose2_daily": 60,
+    "total_daily": 20821,
+    "dose1_cumul": 369451,
+    "dose2_cumul": 102,
+    "total_cumul": 369553
+  },
+  {
+    "date": "2021-03-18",
+    "dose1_daily": 17296,
+    "dose2_daily": 745,
+    "total_daily": 18041,
+    "dose1_cumul": 386747,
+    "dose2_cumul": 847,
+    "total_cumul": 387594
+  },
+  {
+    "date": "2021-03-19",
+    "dose1_daily": 10726,
+    "dose2_daily": 3742,
+    "total_daily": 14468,
+    "dose1_cumul": 397473,
+    "dose2_cumul": 4589,
+    "total_cumul": 402062
+  },
+  {
+    "date": "2021-03-20",
+    "dose1_daily": 7717,
+    "dose2_daily": 6026,
+    "total_daily": 13743,
+    "dose1_cumul": 405190,
+    "dose2_cumul": 10615,
+    "total_cumul": 415805
+  },
+  {
+    "date": "2021-03-21",
+    "dose1_daily": 9697,
+    "dose2_daily": 5765,
+    "total_daily": 15462,
+    "dose1_cumul": 414887,
+    "dose2_cumul": 16380,
+    "total_cumul": 431267
+  },
+  {
+    "date": "2021-03-22",
+    "dose1_daily": 9718,
+    "dose2_daily": 14487,
+    "total_daily": 24205,
+    "dose1_cumul": 424605,
+    "dose2_cumul": 30867,
+    "total_cumul": 455472
+  },
+  {
+    "date": "2021-03-23",
+    "dose1_daily": 8310,
+    "dose2_daily": 20841,
+    "total_daily": 29151,
+    "dose1_cumul": 432915,
+    "dose2_cumul": 51708,
+    "total_cumul": 484623
+  },
+  {
+    "date": "2021-03-24",
+    "dose1_daily": 6314,
+    "dose2_daily": 22701,
+    "total_daily": 29015,
+    "dose1_cumul": 439229,
+    "dose2_cumul": 74409,
+    "total_cumul": 513638
+  },
+  {
+    "date": "2021-03-25",
+    "dose1_daily": 6433,
+    "dose2_daily": 19287,
+    "total_daily": 25720,
+    "dose1_cumul": 445662,
+    "dose2_cumul": 93696,
+    "total_cumul": 539358
+  },
+  {
+    "date": "2021-03-26",
+    "dose1_daily": 3924,
+    "dose2_daily": 12547,
+    "total_daily": 16471,
+    "dose1_cumul": 449586,
+    "dose2_cumul": 106243,
+    "total_cumul": 555829
+  },
+  {
+    "date": "2021-03-27",
+    "dose1_daily": 1701,
+    "dose2_daily": 14086,
+    "total_daily": 15787,
+    "dose1_cumul": 451287,
+    "dose2_cumul": 120329,
+    "total_cumul": 571616
+  },
+  {
+    "date": "2021-03-28",
+    "dose1_daily": 3650,
+    "dose2_daily": 12658,
+    "total_daily": 16308,
+    "dose1_cumul": 454937,
+    "dose2_cumul": 132987,
+    "total_cumul": 587924
+  },
+  {
+    "date": "2021-03-29",
+    "dose1_daily": 7653,
+    "dose2_daily": 26754,
+    "total_daily": 34407,
+    "dose1_cumul": 462590,
+    "dose2_cumul": 159741,
+    "total_cumul": 622331
+  },
+  {
+    "date": "2021-03-30",
+    "dose1_daily": 11403,
+    "dose2_daily": 28961,
+    "total_daily": 40364,
+    "dose1_cumul": 473993,
+    "dose2_cumul": 188702,
+    "total_cumul": 662695
+  },
+  {
+    "date": "2021-03-31",
+    "dose1_daily": 9523,
+    "dose2_daily": 27020,
+    "total_daily": 36543,
+    "dose1_cumul": 483516,
+    "dose2_cumul": 215722,
+    "total_cumul": 699238
+  },
+  {
+    "date": "2021-04-01",
+    "dose1_daily": 15667,
+    "dose2_daily": 26382,
+    "total_daily": 42049,
+    "dose1_cumul": 499183,
+    "dose2_cumul": 242104,
+    "total_cumul": 741287
+  },
+  {
+    "date": "2021-04-02",
+    "dose1_daily": 7599,
+    "dose2_daily": 22839,
+    "total_daily": 30438,
+    "dose1_cumul": 506782,
+    "dose2_cumul": 264943,
+    "total_cumul": 771725
+  },
+  {
+    "date": "2021-04-03",
+    "dose1_daily": 2410,
+    "dose2_daily": 14436,
+    "total_daily": 16846,
+    "dose1_cumul": 509192,
+    "dose2_cumul": 279379,
+    "total_cumul": 788571
+  },
+  {
+    "date": "2021-04-04",
+    "dose1_daily": 5576,
+    "dose2_daily": 8714,
+    "total_daily": 14290,
+    "dose1_cumul": 514768,
+    "dose2_cumul": 288093,
+    "total_cumul": 802861
+  },
+  {
+    "date": "2021-04-05",
+    "dose1_daily": 9196,
+    "dose2_daily": 19099,
+    "total_daily": 28295,
+    "dose1_cumul": 523964,
+    "dose2_cumul": 307192,
+    "total_cumul": 831156
+  },
+  {
+    "date": "2021-04-06",
+    "dose1_daily": 10978,
+    "dose2_daily": 21516,
+    "total_daily": 32494,
+    "dose1_cumul": 534942,
+    "dose2_cumul": 328708,
+    "total_cumul": 863650
+  },
+  {
+    "date": "2021-04-07",
+    "dose1_daily": 12567,
+    "dose2_daily": 18020,
+    "total_daily": 30587,
+    "dose1_cumul": 547509,
+    "dose2_cumul": 346728,
+    "total_cumul": 894237
+  },
+  {
+    "date": "2021-04-08",
+    "dose1_daily": 11995,
+    "dose2_daily": 14707,
+    "total_daily": 26702,
+    "dose1_cumul": 559504,
+    "dose2_cumul": 361435,
+    "total_cumul": 920939
+  },
+  {
+    "date": "2021-04-09",
+    "dose1_daily": 7194,
+    "dose2_daily": 14300,
+    "total_daily": 21494,
+    "dose1_cumul": 566698,
+    "dose2_cumul": 375735,
+    "total_cumul": 942433
+  },
+  {
+    "date": "2021-04-10",
+    "dose1_daily": 5535,
+    "dose2_daily": 9994,
+    "total_daily": 15529,
+    "dose1_cumul": 572233,
+    "dose2_cumul": 385729,
+    "total_cumul": 957962
+  },
+  {
+    "date": "2021-04-11",
+    "dose1_daily": 12440,
+    "dose2_daily": 10651,
+    "total_daily": 23091,
+    "dose1_cumul": 584673,
+    "dose2_cumul": 396380,
+    "total_cumul": 981053
+  },
+  {
+    "date": "2021-04-12",
+    "dose1_daily": 25267,
+    "dose2_daily": 13894,
+    "total_daily": 39161,
+    "dose1_cumul": 609940,
+    "dose2_cumul": 410274,
+    "total_cumul": 1020214
+  },
+  {
+    "date": "2021-04-13",
+    "dose1_daily": 16041,
+    "dose2_daily": 7685,
+    "total_daily": 23726,
+    "dose1_cumul": 625981,
+    "dose2_cumul": 417959,
+    "total_cumul": 1043940
+  },
+  {
+    "date": "2021-04-14",
+    "dose1_daily": 20867,
+    "dose2_daily": 7694,
+    "total_daily": 28561,
+    "dose1_cumul": 646848,
+    "dose2_cumul": 425653,
+    "total_cumul": 1072501
+  },
+  {
+    "date": "2021-04-15",
+    "dose1_daily": 18059,
+    "dose2_daily": 9137,
+    "total_daily": 27196,
+    "dose1_cumul": 664907,
+    "dose2_cumul": 434790,
+    "total_cumul": 1099697
+  },
+  {
+    "date": "2021-04-16",
+    "dose1_daily": 15588,
+    "dose2_daily": 3917,
+    "total_daily": 19505,
+    "dose1_cumul": 680495,
+    "dose2_cumul": 438707,
+    "total_cumul": 1119202
+  },
+  {
+    "date": "2021-04-17",
+    "dose1_daily": 8558,
+    "dose2_daily": 1063,
+    "total_daily": 9621,
+    "dose1_cumul": 689053,
+    "dose2_cumul": 439770,
+    "total_cumul": 1128823
+  },
+  {
+    "date": "2021-04-18",
+    "dose1_daily": 6083,
+    "dose2_daily": 3742,
+    "total_daily": 9825,
+    "dose1_cumul": 695136,
+    "dose2_cumul": 443512,
+    "total_cumul": 1138648
+  },
+  {
+    "date": "2021-04-19",
+    "dose1_daily": 24599,
+    "dose2_daily": 8210,
+    "total_daily": 32809,
+    "dose1_cumul": 719735,
+    "dose2_cumul": 451722,
+    "total_cumul": 1171457
+  },
+  {
+    "date": "2021-04-20",
+    "dose1_daily": 22034,
+    "dose2_daily": 11099,
+    "total_daily": 33133,
+    "dose1_cumul": 741769,
+    "dose2_cumul": 462821,
+    "total_cumul": 1204590
+  },
+  {
+    "date": "2021-04-21",
+    "dose1_daily": 15778,
+    "dose2_daily": 11392,
+    "total_daily": 27170,
+    "dose1_cumul": 757547,
+    "dose2_cumul": 474213,
+    "total_cumul": 1231760
+  },
+  {
+    "date": "2021-04-22",
+    "dose1_daily": 14736,
+    "dose2_daily": 13486,
+    "total_daily": 28222,
+    "dose1_cumul": 772283,
+    "dose2_cumul": 487699,
+    "total_cumul": 1259982
+  },
+  {
+    "date": "2021-04-23",
+    "dose1_daily": 12158,
+    "dose2_daily": 6642,
+    "total_daily": 18800,
+    "dose1_cumul": 784441,
+    "dose2_cumul": 494341,
+    "total_cumul": 1278782
+  },
+  {
+    "date": "2021-04-24",
+    "dose1_daily": 7923,
+    "dose2_daily": 2754,
+    "total_daily": 10677,
+    "dose1_cumul": 792364,
+    "dose2_cumul": 497095,
+    "total_cumul": 1289459
+  },
+  {
+    "date": "2021-04-25",
+    "dose1_daily": 9086,
+    "dose2_daily": 5661,
+    "total_daily": 14747,
+    "dose1_cumul": 801450,
+    "dose2_cumul": 502756,
+    "total_cumul": 1304206
+  },
+  {
+    "date": "2021-04-26",
+    "dose1_daily": 21205,
+    "dose2_daily": 8879,
+    "total_daily": 30084,
+    "dose1_cumul": 822655,
+    "dose2_cumul": 511635,
+    "total_cumul": 1334290
+  },
+  {
+    "date": "2021-04-27",
+    "dose1_daily": 22705,
+    "dose2_daily": 11799,
+    "total_daily": 34504,
+    "dose1_cumul": 845360,
+    "dose2_cumul": 523434,
+    "total_cumul": 1368794
+  },
+  {
+    "date": "2021-04-28",
+    "dose1_daily": 26313,
+    "dose2_daily": 13153,
+    "total_daily": 39466,
+    "dose1_cumul": 871673,
+    "dose2_cumul": 536587,
+    "total_cumul": 1408260
+  },
+  {
+    "date": "2021-04-29",
+    "dose1_daily": 6427,
+    "dose2_daily": 6022,
+    "total_daily": 12449,
+    "dose1_cumul": 878100,
+    "dose2_cumul": 542609,
+    "total_cumul": 1420709
+  },
+  {
+    "date": "2021-04-30",
+    "dose1_daily": 17558,
+    "dose2_daily": 8844,
+    "total_daily": 26402,
+    "dose1_cumul": 895658,
+    "dose2_cumul": 551453,
+    "total_cumul": 1447111
+  },
+  {
+    "date": "2021-05-01",
+    "dose1_daily": 2890,
+    "dose2_daily": 2426,
+    "total_daily": 5316,
+    "dose1_cumul": 898548,
+    "dose2_cumul": 553879,
+    "total_cumul": 1452427
+  },
+  {
+    "date": "2021-05-02",
+    "dose1_daily": 7589,
+    "dose2_daily": 8062,
+    "total_daily": 15651,
+    "dose1_cumul": 906137,
+    "dose2_cumul": 561941,
+    "total_cumul": 1468078
+  },
+  {
+    "date": "2021-05-03",
+    "dose1_daily": 24376,
+    "dose2_daily": 26601,
+    "total_daily": 50977,
+    "dose1_cumul": 930513,
+    "dose2_cumul": 588542,
+    "total_cumul": 1519055
+  },
+  {
+    "date": "2021-05-04",
+    "dose1_daily": 30011,
+    "dose2_daily": 19588,
+    "total_daily": 49599,
+    "dose1_cumul": 960524,
+    "dose2_cumul": 608130,
+    "total_cumul": 1568654
+  },
+  {
+    "date": "2021-05-05",
+    "dose1_daily": 31836,
+    "dose2_daily": 22827,
+    "total_daily": 54663,
+    "dose1_cumul": 992360,
+    "dose2_cumul": 630957,
+    "total_cumul": 1623317
+  },
+  {
+    "date": "2021-05-06",
+    "dose1_daily": 36787,
+    "dose2_daily": 18706,
+    "total_daily": 55493,
+    "dose1_cumul": 1029147,
+    "dose2_cumul": 649663,
+    "total_cumul": 1678810
+  },
+  {
+    "date": "2021-05-07",
+    "dose1_daily": 32080,
+    "dose2_daily": 15423,
+    "total_daily": 47503,
+    "dose1_cumul": 1061227,
+    "dose2_cumul": 665086,
+    "total_cumul": 1726313
+  },
+  {
+    "date": "2021-05-08",
+    "dose1_daily": 18521,
+    "dose2_daily": 8367,
+    "total_daily": 26888,
+    "dose1_cumul": 1079748,
+    "dose2_cumul": 673453,
+    "total_cumul": 1753201
+  },
+  {
+    "date": "2021-05-09",
+    "dose1_daily": 25739,
+    "dose2_daily": 6564,
+    "total_daily": 32303,
+    "dose1_cumul": 1105487,
+    "dose2_cumul": 680017,
+    "total_cumul": 1785504
+  },
+  {
+    "date": "2021-05-10",
+    "dose1_daily": 36469,
+    "dose2_daily": 24731,
+    "total_daily": 61200,
+    "dose1_cumul": 1141956,
+    "dose2_cumul": 704748,
+    "total_cumul": 1846704
+  },
+  {
+    "date": "2021-05-11",
+    "dose1_daily": 30380,
+    "dose2_daily": 18360,
+    "total_daily": 48740,
+    "dose1_cumul": 1172336,
+    "dose2_cumul": 723108,
+    "total_cumul": 1895444
+  },
+  {
+    "date": "2021-05-12",
+    "dose1_daily": 10251,
+    "dose2_daily": 7788,
+    "total_daily": 18039,
+    "dose1_cumul": 1182587,
+    "dose2_cumul": 730896,
+    "total_cumul": 1913483
+  },
+  {
+    "date": "2021-05-13",
+    "dose1_daily": 111,
+    "dose2_daily": 5,
+    "total_daily": 116,
+    "dose1_cumul": 1182698,
+    "dose2_cumul": 730901,
+    "total_cumul": 1913599
+  },
+  {
+    "date": "2021-05-14",
+    "dose1_daily": 21,
+    "dose2_daily": 12,
+    "total_daily": 33,
+    "dose1_cumul": 1182719,
+    "dose2_cumul": 730913,
+    "total_cumul": 1913632
+  },
+  {
+    "date": "2021-05-15",
+    "dose1_daily": 10161,
+    "dose2_daily": 589,
+    "total_daily": 10750,
+    "dose1_cumul": 1192880,
+    "dose2_cumul": 731502,
+    "total_cumul": 1924382
+  },
+  {
+    "date": "2021-05-16",
+    "dose1_daily": 9969,
+    "dose2_daily": 326,
+    "total_daily": 10295,
+    "dose1_cumul": 1202849,
+    "dose2_cumul": 731828,
+    "total_cumul": 1934677
+  },
+  {
+    "date": "2021-05-17",
+    "dose1_daily": 32235,
+    "dose2_daily": 28026,
+    "total_daily": 60261,
+    "dose1_cumul": 1235084,
+    "dose2_cumul": 759854,
+    "total_cumul": 1994938
+  },
+  {
+    "date": "2021-05-18",
+    "dose1_daily": 44351,
+    "dose2_daily": 32200,
+    "total_daily": 76551,
+    "dose1_cumul": 1279435,
+    "dose2_cumul": 792054,
+    "total_cumul": 2071489
+  },
+  {
+    "date": "2021-05-19",
+    "dose1_daily": 49722,
+    "dose2_daily": 33926,
+    "total_daily": 83648,
+    "dose1_cumul": 1329157,
+    "dose2_cumul": 825980,
+    "total_cumul": 2155137
+  },
+  {
+    "date": "2021-05-20",
+    "dose1_daily": 58749,
+    "dose2_daily": 21854,
+    "total_daily": 80603,
+    "dose1_cumul": 1387906,
+    "dose2_cumul": 847834,
+    "total_cumul": 2235740
+  },
+  {
+    "date": "2021-05-21",
+    "dose1_daily": 41919,
+    "dose2_daily": 18678,
+    "total_daily": 60597,
+    "dose1_cumul": 1429825,
+    "dose2_cumul": 866512,
+    "total_cumul": 2296337
+  },
+  {
+    "date": "2021-05-22",
+    "dose1_daily": 42078,
+    "dose2_daily": 3130,
+    "total_daily": 45208,
+    "dose1_cumul": 1471903,
+    "dose2_cumul": 869642,
+    "total_cumul": 2341545
+  },
+  {
+    "date": "2021-05-23",
+    "dose1_daily": 37654,
+    "dose2_daily": 8333,
+    "total_daily": 45987,
+    "dose1_cumul": 1509557,
+    "dose2_cumul": 877975,
+    "total_cumul": 2387532
+  },
+  {
+    "date": "2021-05-24",
+    "dose1_daily": 69122,
+    "dose2_daily": 25887,
+    "total_daily": 95009,
+    "dose1_cumul": 1578679,
+    "dose2_cumul": 903862,
+    "total_cumul": 2482541
+  },
+  {
+    "date": "2021-05-25",
+    "dose1_daily": 68958,
+    "dose2_daily": 30594,
+    "total_daily": 99552,
+    "dose1_cumul": 1647637,
+    "dose2_cumul": 934456,
+    "total_cumul": 2582093
+  },
+  {
+    "date": "2021-05-26",
+    "dose1_daily": 20097,
+    "dose2_daily": 1891,
+    "total_daily": 21988,
+    "dose1_cumul": 1667734,
+    "dose2_cumul": 936347,
+    "total_cumul": 2604081
+  },
+  {
+    "date": "2021-05-27",
+    "dose1_daily": 58084,
+    "dose2_daily": 49256,
+    "total_daily": 107340,
+    "dose1_cumul": 1725818,
+    "dose2_cumul": 985603,
+    "total_cumul": 2711421
+  },
+  {
+    "date": "2021-05-28",
+    "dose1_daily": 46446,
+    "dose2_daily": 27330,
+    "total_daily": 73776,
+    "dose1_cumul": 1772264,
+    "dose2_cumul": 1012933,
+    "total_cumul": 2785197
+  },
+  {
+    "date": "2021-05-29",
+    "dose1_daily": 50530,
+    "dose2_daily": 14866,
+    "total_daily": 65396,
+    "dose1_cumul": 1822794,
+    "dose2_cumul": 1027799,
+    "total_cumul": 2850593
+  },
+  {
+    "date": "2021-05-30",
+    "dose1_daily": 38070,
+    "dose2_daily": 24346,
+    "total_daily": 62416,
+    "dose1_cumul": 1860864,
+    "dose2_cumul": 1052145,
+    "total_cumul": 2913009
+  },
+  {
+    "date": "2021-05-31",
+    "dose1_daily": 66997,
+    "dose2_daily": 28423,
+    "total_daily": 95420,
+    "dose1_cumul": 1927861,
+    "dose2_cumul": 1080568,
+    "total_cumul": 3008429
+  },
+  {
+    "date": "2021-06-01",
+    "dose1_daily": 74484,
+    "dose2_daily": 24305,
+    "total_daily": 98789,
+    "dose1_cumul": 2002345,
+    "dose2_cumul": 1104873,
+    "total_cumul": 3107218
+  },
+  {
+    "date": "2021-06-02",
+    "dose1_daily": 95844,
+    "dose2_daily": 9811,
+    "total_daily": 105655,
+    "dose1_cumul": 2098189,
+    "dose2_cumul": 1114684,
+    "total_cumul": 3212873
+  },
+  {
+    "date": "2021-06-03",
+    "dose1_daily": 109827,
+    "dose2_daily": 7736,
+    "total_daily": 117563,
+    "dose1_cumul": 2208016,
+    "dose2_cumul": 1122420,
+    "total_cumul": 3330436
+  },
+  {
+    "date": "2021-06-04",
+    "dose1_daily": 85361,
+    "dose2_daily": 4916,
+    "total_daily": 90277,
+    "dose1_cumul": 2293377,
+    "dose2_cumul": 1127336,
+    "total_cumul": 3420713
+  },
+  {
+    "date": "2021-06-05",
+    "dose1_daily": 71078,
+    "dose2_daily": 1402,
+    "total_daily": 72480,
+    "dose1_cumul": 2364455,
+    "dose2_cumul": 1128738,
+    "total_cumul": 3493193
+  },
+  {
+    "date": "2021-06-06",
+    "dose1_daily": 79620,
+    "dose2_daily": 1563,
+    "total_daily": 81183,
+    "dose1_cumul": 2444075,
+    "dose2_cumul": 1130301,
+    "total_cumul": 3574376
+  },
+  {
+    "date": "2021-06-07",
+    "dose1_daily": 59580,
+    "dose2_daily": 4856,
+    "total_daily": 64436,
+    "dose1_cumul": 2503655,
+    "dose2_cumul": 1135157,
+    "total_cumul": 3638812
+  },
+  {
+    "date": "2021-06-08",
+    "dose1_daily": 105722,
+    "dose2_daily": 45587,
+    "total_daily": 151309,
+    "dose1_cumul": 2609377,
+    "dose2_cumul": 1180744,
+    "total_cumul": 3790121
+  },
+  {
+    "date": "2021-06-09",
+    "dose1_daily": 114671,
+    "dose2_daily": 40195,
+    "total_daily": 154866,
+    "dose1_cumul": 2724048,
+    "dose2_cumul": 1220939,
+    "total_cumul": 3944987
+  },
+  {
+    "date": "2021-06-10",
+    "dose1_daily": 111130,
+    "dose2_daily": 46819,
+    "total_daily": 157949,
+    "dose1_cumul": 2835178,
+    "dose2_cumul": 1267758,
+    "total_cumul": 4102936
+  },
+  {
+    "date": "2021-06-11",
+    "dose1_daily": 94558,
+    "dose2_daily": 30060,
+    "total_daily": 124618,
+    "dose1_cumul": 2929736,
+    "dose2_cumul": 1297818,
+    "total_cumul": 4227554
+  },
+  {
+    "date": "2021-06-12",
+    "dose1_daily": 100360,
+    "dose2_daily": 33444,
+    "total_daily": 133804,
+    "dose1_cumul": 3030096,
+    "dose2_cumul": 1331262,
+    "total_cumul": 4361358
+  },
+  {
+    "date": "2021-06-13",
+    "dose1_daily": 102208,
+    "dose2_daily": 26704,
+    "total_daily": 128912,
+    "dose1_cumul": 3132304,
+    "dose2_cumul": 1357966,
+    "total_cumul": 4490270
+  },
+  {
+    "date": "2021-06-14",
+    "dose1_daily": 142890,
+    "dose2_daily": 55073,
+    "total_daily": 197963,
+    "dose1_cumul": 3275194,
+    "dose2_cumul": 1413039,
+    "total_cumul": 4688233
+  },
+  {
+    "date": "2021-06-15",
+    "dose1_daily": 160226,
+    "dose2_daily": 55650,
+    "total_daily": 215876,
+    "dose1_cumul": 3435420,
+    "dose2_cumul": 1468689,
+    "total_cumul": 4904109
+  },
+  {
+    "date": "2021-06-16",
+    "dose1_daily": 196775,
+    "dose2_daily": 8064,
+    "total_daily": 204839,
+    "dose1_cumul": 3632195,
+    "dose2_cumul": 1476753,
+    "total_cumul": 5108948
+  },
+  {
+    "date": "2021-06-17",
+    "dose1_daily": 177876,
+    "dose2_daily": 43830,
+    "total_daily": 221706,
+    "dose1_cumul": 3810071,
+    "dose2_cumul": 1520583,
+    "total_cumul": 5330654
+  },
+  {
+    "date": "2021-06-18",
+    "dose1_daily": 147616,
+    "dose2_daily": 32450,
+    "total_daily": 180066,
+    "dose1_cumul": 3957687,
+    "dose2_cumul": 1553033,
+    "total_cumul": 5510720
+  },
+  {
+    "date": "2021-06-19",
+    "dose1_daily": 128400,
+    "dose2_daily": 35882,
+    "total_daily": 164282,
+    "dose1_cumul": 4086087,
+    "dose2_cumul": 1588915,
+    "total_cumul": 5675002
+  },
+  {
+    "date": "2021-06-20",
+    "dose1_daily": 116514,
+    "dose2_daily": 24059,
+    "total_daily": 140573,
+    "dose1_cumul": 4202601,
+    "dose2_cumul": 1612974,
+    "total_cumul": 5815575
+  },
+  {
+    "date": "2021-06-21",
+    "dose1_daily": 181840,
+    "dose2_daily": 53783,
+    "total_daily": 235623,
+    "dose1_cumul": 4384441,
+    "dose2_cumul": 1666757,
+    "total_cumul": 6051198
+  },
+  {
+    "date": "2021-06-22",
+    "dose1_daily": 190244,
+    "dose2_daily": 60285,
+    "total_daily": 250529,
+    "dose1_cumul": 4574685,
+    "dose2_cumul": 1727042,
+    "total_cumul": 6301727
+  },
+  {
+    "date": "2021-06-23",
+    "dose1_daily": 174448,
+    "dose2_daily": 78325,
+    "total_daily": 252773,
+    "dose1_cumul": 4749133,
+    "dose2_cumul": 1805367,
+    "total_cumul": 6554500
+  },
+  {
+    "date": "2021-06-24",
+    "dose1_daily": 175201,
+    "dose2_daily": 93403,
+    "total_daily": 268604,
+    "dose1_cumul": 4924334,
+    "dose2_cumul": 1898770,
+    "total_cumul": 6823104
+  },
+  {
+    "date": "2021-06-25",
+    "dose1_daily": 148380,
+    "dose2_daily": 67588,
+    "total_daily": 215968,
+    "dose1_cumul": 5072714,
+    "dose2_cumul": 1966358,
+    "total_cumul": 7039072
+  },
+  {
+    "date": "2021-06-26",
+    "dose1_daily": 132279,
+    "dose2_daily": 55598,
+    "total_daily": 187877,
+    "dose1_cumul": 5204993,
+    "dose2_cumul": 2021956,
+    "total_cumul": 7226949
+  },
+  {
+    "date": "2021-06-27",
+    "dose1_daily": 103856,
+    "dose2_daily": 65100,
+    "total_daily": 168956,
+    "dose1_cumul": 5308849,
+    "dose2_cumul": 2087056,
+    "total_cumul": 7395905
+  },
+  {
+    "date": "2021-06-28",
+    "dose1_daily": 154279,
+    "dose2_daily": 42995,
+    "total_daily": 197274,
+    "dose1_cumul": 5463128,
+    "dose2_cumul": 2130051,
+    "total_cumul": 7593179
+  },
+  {
+    "date": "2021-06-29",
+    "dose1_daily": 147783,
+    "dose2_daily": 83950,
+    "total_daily": 231733,
+    "dose1_cumul": 5610911,
+    "dose2_cumul": 2214001,
+    "total_cumul": 7824912
+  }
+]
